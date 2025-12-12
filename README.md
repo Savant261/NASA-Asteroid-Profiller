@@ -60,17 +60,7 @@ You need to have Python 3.8 (or newer) and pip installed on your system.
 
 3.  **Install the required dependencies:**
 
-    You will need to create a `requirements.txt` file with the following content:
-
-    ```
-    streamlit
-    pandas
-    numpy
-    scikit-learn
-    plotly
-    ```
-
-    Then, run the following command to install the packages:
+   Run the following command to install the packages:
 
     ```bash
     pip install -r requirements.txt
