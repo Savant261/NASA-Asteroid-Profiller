@@ -2,6 +2,8 @@
 
 A machine learning project that uses a 3-stage AI pipeline to profile, measure, and assess the potential hazard of Near-Earth Objects (NEOs). This system provides an interactive dashboard built with Streamlit to visualize data and make live predictions.
 
+[**» View Live Demo**](https://nasa-asteroid-profiller-9ejht8uomshfamyz38a6of.streamlit.app/) 
+
 ---
 
 ## 🎯 Features
